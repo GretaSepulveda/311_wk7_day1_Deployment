@@ -1,4 +1,2 @@
 runtime: nodejs10
 
-env_variables:
-  CLOUD_INSTANCE: fake-instance
